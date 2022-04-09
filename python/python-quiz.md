@@ -1741,7 +1741,7 @@ Hello, I am from France
 
 ![Q129](images/Q129.png)
 
-- [ ] `sum(titanic['Survived'])`
+- [x] `sum(titanic['Survived'])`
 - [ ] `[x for x in titanic['Survived'] if x == 1]`
 - [ ] `len(titanic["Survived"])`
 - [ ] `sum(titanic['Survived']==0)`
