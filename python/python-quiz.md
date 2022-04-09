@@ -1775,7 +1775,7 @@ for x in range(1,len(characters)):
 ```
 
 - [ ] a dictionary with x as a key, and x squared as its value; from 1 to 100
-- [ ] a dictionary with x as a key, and x squared as its value; from 1 to 99
+- [x] a dictionary with x as a key, and x squared as its value; from 1 to 99
 - [ ] a set of tuples, consisting of (x,x squared); from 1 to 99
 - [ ] a list with all numbers squared from 1 to 99
 
